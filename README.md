@@ -3,7 +3,7 @@
 
 Easy way to put and get data and Object for the shared preferences in Android.
 
-##Usage
+## Usage
 -----------
 
 Add below line in app ```build.gradle```
@@ -14,7 +14,7 @@ dependencies {
 }
 ```
 
-##Code snippets
+## Code snippets
 ---------------
 
 ### Preference initialize option ###
@@ -99,7 +99,7 @@ boolean value=EasyPreference.with(this, "YourPrefName")
 
 
 
-##License
+## License
 
 Copyright 2016 Habibur Rahman
 
